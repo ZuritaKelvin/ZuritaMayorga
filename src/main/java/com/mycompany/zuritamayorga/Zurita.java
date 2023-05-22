@@ -12,4 +12,13 @@ public class Zurita {
     public void saludar(){
         System.out.println("hola");
     }
+    public int multiplicar(int n1,int n2){
+        return n1*n2;
+    }
+    public int dividir(int n1,int n2){
+        if(n2 != 0){
+            return n1/n2;
+        }
+        return 0;
+    }
 }
