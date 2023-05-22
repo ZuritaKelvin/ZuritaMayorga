@@ -9,5 +9,7 @@ package com.mycompany.zuritamayorga;
  * @author zurit
  */
 public class Mayorga {
-    
+    public void despedir(){
+        System.out.println("adios");
+    }
 }

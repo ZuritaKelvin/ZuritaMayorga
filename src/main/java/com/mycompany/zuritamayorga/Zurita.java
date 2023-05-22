@@ -9,5 +9,7 @@ package com.mycompany.zuritamayorga;
  * @author zurit
  */
 public class Zurita {
-    
+    public void saludar(){
+        System.out.println("hola");
+    }
 }
